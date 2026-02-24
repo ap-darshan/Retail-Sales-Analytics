@@ -1,4 +1,4 @@
-<img width="947" height="528" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/817f75a0-e33b-43c9-a565-03ab526ebee5" /># 📊 Retail Sales Analytics Dashboard
+# 📊 Retail Sales Analytics Dashboard
 
 ## 🔹 Project Overview
 This project analyzes retail sales data using **SQL and Power BI** to generate business insights.  
@@ -79,3 +79,4 @@ Retail-Sales-Analytics/
 
 ## 👨‍💻 Author
 Darshan
+

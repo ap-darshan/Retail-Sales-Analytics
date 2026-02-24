@@ -1,50 +1,73 @@
-# Retail Sales Analytics Dashboard 📊
+# 📊 Retail Sales Analytics Dashboard
 
-## 📌 Project Overview
-This project analyzes retail sales data using SQL and Power BI to generate business insights.
+## 🔹 Project Overview
+This project analyzes retail sales data using **SQL and Power BI** to generate business insights.  
+The goal is to understand sales performance, customer behavior, and product trends.
 
 ---
 
-## 🔧 Tools Used
+## 🛠️ Tools Used
 - SQL (Data Cleaning & Analysis)
-- Power BI (Dashboard)
-- Excel/CSV (Dataset)
+- Power BI (Dashboard & Visualization)
+- Excel / CSV (Dataset)
 
 ---
 
 ## 🔄 Workflow
 
-### 1. Data Cleaning (SQL)
+### 1️⃣ Data Cleaning (SQL)
 - Removed null values
-- Removed duplicates
-- Removed negative quantities
-- Created TotalPrice column
+- Removed duplicate records
+- Handled incorrect data types
+- Cleaned dataset for analysis
 
-### 2. Data Analysis (SQL)
-- Total Revenue
+### 2️⃣ Data Analysis (SQL)
+- Total Revenue calculation
+- Total Orders & Customers
 - Top Selling Products
 - Revenue by Country
 - Monthly Sales Trend
 
-### 3. Data Visualization (Power BI)
+### 3️⃣ Data Visualization (Power BI)
 - KPI Cards (Revenue, Customers, Orders, AOV)
-- Bar Charts
-- Line Chart
-- Donut Chart
-- Filters (Country, Year)
+- Bar Chart → Top Selling Products
+- Bar Chart → Revenue by Country
+- Donut Chart → Sales Distribution by Country
+- Line Chart → Monthly Revenue Trend
+- Slicers → Country & Year
 
 ---
 
-## 📊 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+## 📸 Dashboard Preview
+![Dashboard]("C:\Users\Darshan_ap\OneDrive\Desktop\Retail-Sales-Analytics\dashboard_preview.png.png")
 
 ---
 
-## 💡 Key Insights
-- UK generates majority of revenue
-- Few products contribute most sales
-- Sales show monthly growth trend
+## 📊 Key Insights
+- United Kingdom generates the highest revenue
+- Few top products contribute majority of sales
+- Sales show an increasing trend over months
+- Majority revenue comes from limited countries
 
+---
+
+## 🚀 How to Use
+1. Open `.pbix` file in Power BI Desktop  
+2. Explore dashboard using filters (Country, Year)  
+3. Run SQL queries from `analysis.sql` for insights  
+
+---
+
+## 💡 Skills Demonstrated
+- SQL (Joins, Aggregations, Data Cleaning)
+- Data Analysis
+- Data Visualization (Power BI)
+- Business Insights Generation
+
+---
+
+## 👨‍💻 Author
+Darshan
 ---
 
 ## 📁 Project Structure

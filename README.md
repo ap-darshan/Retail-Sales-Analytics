@@ -1,4 +1,4 @@
-# 📊 Retail Sales Analytics Dashboard
+<img width="947" height="528" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/817f75a0-e33b-43c9-a565-03ab526ebee5" /># 📊 Retail Sales Analytics Dashboard
 
 ## 🔹 Project Overview
 This project analyzes retail sales data using **SQL and Power BI** to generate business insights.  
@@ -39,7 +39,7 @@ The goal is to understand sales performance, customer behavior, and product tren
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard]("C:\Users\Darshan_ap\OneDrive\Desktop\Retail-Sales-Analytics\dashboard_preview.png.png")
+![Dashboard]<img width="947" height="528" alt="dashboard_preview png" src="https://github.com/user-attachments/assets/9e76d8af-7eea-4da8-bb40-cd5bf0e1cf34" />
 
 ---
 
@@ -51,23 +51,31 @@ The goal is to understand sales performance, customer behavior, and product tren
 
 ---
 
+## 📁 Project Structure
+Retail-Sales-Analytics/
+│── analysis.sql
+│── online_retail_cleaned.csv
+│── Retail Sales Performance Dashboard.pbix
+│── dashboard_preview.png
+│── README.md
+
+
+---
+
 ## 🚀 How to Use
-1. Open `.pbix` file in Power BI Desktop  
-2. Explore dashboard using filters (Country, Year)  
-3. Run SQL queries from `analysis.sql` for insights  
+1. Open `.pbix` file in Power BI Desktop
+2. Explore dashboard using filters (Country, Year)
+3. Run SQL queries from `analysis.sql` for insights
 
 ---
 
 ## 💡 Skills Demonstrated
-- SQL (Joins, Aggregations, Data Cleaning)
+- SQL (Joins, Aggregations, Cleaning)
 - Data Analysis
-- Data Visualization (Power BI)
+- Data Visualization
 - Business Insights Generation
 
 ---
 
 ## 👨‍💻 Author
 Darshan
----
-
-## 📁 Project Structure
